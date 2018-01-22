@@ -26,3 +26,5 @@ pip install requests
 * Check any open issues or open a new issue to start discussions about your ideas of features and/or bugs
 * Fork the repository, make changes, and send pull requests
 * And of course add yourself to the contributors  table
+
+HAHA boi
